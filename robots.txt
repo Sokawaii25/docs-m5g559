@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-qnd8c6.toitsdefrance.fr/sitemap.xml
